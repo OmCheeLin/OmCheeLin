@@ -6,7 +6,7 @@
 
 🎂 2005.07.31 | 🌏 Zhejiang, China  
 💻 Seeking Backend Developer Opportunities  
-📚 Passionate about open source exploration | ✍️ Sharing insights on [My Blog](blog.csdn.net/2401_82540083)
+📚 Passionate about open source exploration | ✍️ Sharing insights on [My Blog](https://blog.csdn.net/2401_82540083)
 
 ---
 
@@ -21,6 +21,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?logo=apacherocketmq&logoColor=white)
 
 
 **DevOps**  
