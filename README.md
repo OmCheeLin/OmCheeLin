@@ -40,6 +40,8 @@
 **Seata**
 - [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
 
+---
+
 ### 📫 Let's Connect
 📧 19563671928@163.com
 
