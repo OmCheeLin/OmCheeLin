@@ -30,13 +30,15 @@
 
 ---
 
-### ⚡ GitHub Stats
+### 🚀 Pull Request Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
+**Skywalking**
+- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
+- [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664) - to `apache/skywalking-banyandb`
+- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
+  
+**Seata**
+- [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
 
 ### 📫 Let's Connect
 📧 19563671928@163.com
