@@ -42,8 +42,8 @@
 - [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398) - to `apache/incubator-seata`
 - [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388) - to `apache/incubator-seata`
 
-**Apache Fury**
-- [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fury/pull/2271) to `apache/fury`
+**Apache Fory**
+- [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
 
 ---
 
