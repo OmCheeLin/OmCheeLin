@@ -34,13 +34,23 @@
 
 **Apache Skywalking**
 - [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
-- [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664) - to `apache/skywalking-banyandb`
 - [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
+- <details>
+  <summary>1 relatively small PRs</summary>
+
+  - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664) - to `apache/skywalking-banyandb`
+
+</details>
   
 **Apache Seata**
-- [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
-- [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398) - to `apache/incubator-seata`
-- [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388) - to `apache/incubator-seata`
+- <details>
+  <summary>3 relatively small PRs</summary>
+
+  - [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
+  - [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398) - to `apache/incubator-seata`
+  - [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388) - to `apache/incubator-seata`
+
+</details>
 
 **Apache Fory**
 - [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
