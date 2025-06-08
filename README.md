@@ -32,7 +32,7 @@
 
 ### 🚀 Pull Request Contributions
 
-**Apache Skywalking**
+#### Apache Skywalking
 - [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
 - [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
 - <details>
@@ -42,7 +42,7 @@
 
 </details>
   
-**Apache Seata**
+#### Apache Seata
 - <details>
   <summary>3 relatively small PRs</summary>
 
@@ -52,7 +52,7 @@
 
 </details>
 
-**Apache Fory**
+#### Apache Fory
 - [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
 
 ---
