@@ -44,16 +44,18 @@
   
 #### Apache Seata
 - <details>
-  <summary>3 relatively small PRs</summary>
+  <summary>4 relatively small PRs</summary>
 
   - [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
   - [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398) - to `apache/incubator-seata`
   - [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388) - to `apache/incubator-seata`
+  - [test: add UT for seata-spring-boot-starter module](https://github.com/apache/incubator-seata/pull/7422) - to `apache/incubator-seata`
 
 </details>
 
 #### Apache Fory
 - [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
+- [feat(java): support multi-dimensional array field serialization in xlang meta shared mode](https://github.com/apache/fory/pull/2314) to `apache/fory`
 
 ---
 
