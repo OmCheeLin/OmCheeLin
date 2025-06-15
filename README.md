@@ -4,7 +4,7 @@
 
 **`Gen Z Developer | Open Source Enthusiast | Technical Writer`**
 
-🎂 | 🌏 Zhejiang, China  
+🌏 Zhejiang, China  
 💻 Seeking Backend Developer Opportunities  
 📚 Passionate about open source exploration | ✍️ Sharing insights on [My Blog](https://blog.csdn.net/2401_82540083)
 
