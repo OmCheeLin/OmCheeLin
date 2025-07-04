@@ -35,6 +35,7 @@
 #### Apache Skywalking
 - [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
 - [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
+- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688) - to `apache/skywalking-banyandb`
 - <details>
   <summary>1 relatively small PRs</summary>
 
