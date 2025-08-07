@@ -33,6 +33,7 @@
 ### 🚀 Pull Request Contributions
 
 #### Apache Skywalking
+- [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704) - to `apache/skywalking-banyandb`
 - [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
 - [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
 - [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688) - to `apache/skywalking-banyandb`
