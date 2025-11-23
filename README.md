@@ -1,4 +1,4 @@
-# Hello World 👋 I'm OmCheeLin!
+# Hello 👋 I'm OmCheeLin!
 
 <img align="right" src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile Views" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -30,9 +30,19 @@
 
 ---
 
-### 🚀 Pull Request Contributions
+## 🚀 Reinventing the Wheel Series
+### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
+JVM monitoring tool inspired by Arthas  
+➡ Implemented runtime diagnostics, interactive console, command parsing, and stack tracing.
 
-#### Apache Skywalking
+### [mini-docker](https://github.com/OmCheeLin/idocker)
+Container runtime implemented from scratch  
+➡ Supports namespace isolation, cgroups, network isolation, layered filesystem — deep insight into Docker internals.
+
+
+## 🧑‍💻 Open Source Contributions
+
+### Apache Skywalking
 - [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
 - [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704) - to `apache/skywalking-banyandb`
 - [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734) - to `apache/skywalking-banyandb`
@@ -45,7 +55,7 @@
 
 </details>
   
-#### Apache Seata
+### Apache Seata
 - <details>
   <summary>4 relatively small PRs</summary>
 
@@ -56,7 +66,7 @@
 
 </details>
 
-#### Apache Fory
+### Apache Fory
 - [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
 - [feat(java): support multi-dimensional array field serialization in xlang meta shared mode](https://github.com/apache/fory/pull/2314) to `apache/fory`
 
