@@ -32,13 +32,10 @@
 
 ## 🚀 Reinventing the Wheel Series
 ### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
-JVM monitoring tool inspired by Arthas  
-➡ Implemented runtime diagnostics, interactive console, command parsing, and stack tracing.
+➡ JVM monitoring tool inspired by Arthas  
 
 ### [mini-docker](https://github.com/OmCheeLin/idocker)
-Container runtime implemented from scratch  
-➡ Supports namespace isolation, cgroups, network isolation, layered filesystem — deep insight into Docker internals.
-
+➡ Container runtime implemented from scratch  
 
 ## 🧑‍💻 Open Source Contributions
 
