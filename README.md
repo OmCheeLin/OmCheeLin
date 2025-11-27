@@ -1,6 +1,6 @@
 # Hello 👋 I'm OmCheeLin!
 
-<img align="right" src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile Views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=OmCheeLin&color=blueviolet" alt="Profile Views" />
 
 **`Gen Z Developer | Open Source Enthusiast | Technical Writer`**
 
