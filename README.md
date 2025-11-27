@@ -34,8 +34,8 @@
 ### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
 ➡ JVM monitoring tool inspired by Arthas  
 
-### [mini-docker](https://github.com/OmCheeLin/idocker)
-➡ Container runtime implemented from scratch  
+### mini-docker
+- Under development...
 
 ---
 
