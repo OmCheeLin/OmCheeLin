@@ -3,7 +3,7 @@
 
 📍 Zhejiang, China  
 💻 Seeking Backend Developer Opportunities  
-✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083)
+✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083?type=blog)
 
 ## 🛠️ Tech Stack
 
