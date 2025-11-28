@@ -1,77 +1,91 @@
-# Hello 👋 I'm OmCheeLin!
-
-<img align="right" src="https://komarev.com/ghpvc/?username=OmCheeLin&color=blueviolet" alt="Profile Views" />
-
+# Hi, I'm OmCheeLin! 👋
 **`Gen Z Developer | Open Source Enthusiast | Technical Writer`**
 
-🌏 Zhejiang, China  
+📍 Zhejiang, China  
 💻 Seeking Backend Developer Opportunities  
-📚 Passionate about open source exploration | ✍️ Sharing insights on [My Blog](https://blog.csdn.net/2401_82540083)
+✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083)
 
 ---
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=500&lines=Hey!+I'm+OmCheeLin+👋;Gen+Z+Developer+%7C+Open+Source+Enthusiast;Backend+Dev+in+Progress...;Always+learning%2C+always+building!" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OmCheeLin&show_icons=true&theme=material-palenight" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
-**Languages**  
+### **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-**Backend**  
+### **Backend**
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?logo=apacherocketmq&logoColor=white)
 
-
-**DevOps**  
+### **DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
----
-
-## 🚀 Reinventing the Wheel Series
-### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
-➡ JVM monitoring tool inspired by Arthas  
-
-### mini-docker
-- Under development...
-
----
 
 ## 🧑‍💻 Open Source Contributions
 
-### Apache Skywalking
-- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674) - to `apache/skywalking-banyandb`
-- [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704) - to `apache/skywalking-banyandb`
-- [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734) - to `apache/skywalking-banyandb`
-- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656) - to `apache/skywalking-banyandb`
-- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688) - to `apache/skywalking-banyandb`
-- <details>
-  <summary>1 relatively small PRs</summary>
+### **Apache SkyWalking (BanyanDB) — Main Contributions**
+- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)  
+- [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704)  
+- [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734)  
+- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)  
+- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688)  
 
-  - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664) - to `apache/skywalking-banyandb`
+<details>
+  <summary>📌 More BanyanDB PRs</summary>
 
-</details>
-  
-### Apache Seata
-- <details>
-  <summary>4 relatively small PRs</summary>
-
-  - [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372) - to `apache/incubator-seata`
-  - [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398) - to `apache/incubator-seata`
-  - [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388) - to `apache/incubator-seata`
-  - [test: add UT for seata-spring-boot-starter module](https://github.com/apache/incubator-seata/pull/7422) - to `apache/incubator-seata`
-
+  - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
+  - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)  
+  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)  
+  - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664)  
 </details>
 
-### Apache Fory
-- [fix(java): raise exception when registering invalid serializer for Map/List](https://github.com/apache/fory/pull/2291) to `apache/fory`
-- [feat(java): support multi-dimensional array field serialization in xlang meta shared mode](https://github.com/apache/fory/pull/2314) to `apache/fory`
 
----
 
-### 📫 Let's Connect
-📧 19563671928@163.com
+### **Other Repo PRs**
+<details>
+  <summary>📁 Show PRs</summary>
 
-🌟 _Exploring the art of code, one commit at a time_ 🌟
+  #### Apache Seata
+  - [optimize: optimize license ignore](https://github.com/apache/incubator-seata/pull/7372)  
+  - [test: add UT for TccAnnotationProcessor class](https://github.com/apache/incubator-seata/pull/7398)  
+  - [optimize: binary packaging directory structure](https://github.com/apache/incubator-seata/pull/7388)  
+  - [test: add UT for seata-spring-boot-starter module](https://github.com/apache/incubator-seata/pull/7422)  
+
+  #### Apache Fory
+  - [fix(java): raise exception when invalid serializer registered](https://github.com/apache/fory/pull/2291)  
+  - [feat(java): support multi-dimensional array field serialization](https://github.com/apache/fory/pull/2314)  
+
+  #### Camel-AI
+  - [fix: Fixed all dead links in docs](https://github.com/camel-ai/camel/pull/3091)  
+  - [enhance: Support Chinese Documentation](https://github.com/camel-ai/camel/pull/3091)  
+  - [feat: Support Multiple System Messages](https://github.com/camel-ai/camel/pull/3167)  
+</details>
+
+
+## 🚀 Reinventing the Wheel Series
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmCheeLin&repo=mini-arthas&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmCheeLin&repo=mini-docker&theme=material-palenight" />
+</p>
+
+
+## 📫 Let's Connect
+
+📧 Email: **19563671928@163.com**
+
+🌟 _Exploring the art of code, one commit at a time._  
