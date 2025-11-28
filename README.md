@@ -42,7 +42,6 @@
 </details>
 
 
-
 ### **Other Repo PRs**
 <details>
   <summary>📁 Show PRs</summary>
@@ -65,12 +64,11 @@
 
 
 ## 🚀 Reinventing the Wheel Series
+### [mini-docker](https://github.com/OmCheeLin/mini-docker)
+- An implementation of a container runtime
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmCheeLin&repo=mini-arthas&theme=material-palenight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmCheeLin&repo=mini-docker&theme=material-palenight" />
-</p>
-
+### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
+- JVM monitoring tool inspired by Arthas 
 
 ## 📫 Let's Connect
 
