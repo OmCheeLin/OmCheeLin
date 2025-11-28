@@ -5,18 +5,6 @@
 💻 Seeking Backend Developer Opportunities  
 ✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083)
 
----
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=500&lines=Hey!+I'm+OmCheeLin+👋;Gen+Z+Developer+%7C+Open+Source+Enthusiast;Backend+Dev+in+Progress...;Always+learning%2C+always+building!" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OmCheeLin&show_icons=true&theme=material-palenight" />
-</p>
-
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
