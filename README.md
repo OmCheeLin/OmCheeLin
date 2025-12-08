@@ -35,6 +35,7 @@
 <details>
   <summary>📌 More BanyanDB PRs</summary>
 
+  - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882)
   - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
   - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)  
   - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)  
