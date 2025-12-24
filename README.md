@@ -35,11 +35,13 @@
 <details>
   <summary>📌 More BanyanDB PRs</summary>
 
+  - [Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
   - [Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
   - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882)
   - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
   - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)  
-  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)  
+  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
+  - [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
   - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664)  
 </details>
 
