@@ -66,9 +66,6 @@
 
 
 ## 🚀 Reinventing the Wheel Series
-### [mini-docker](https://github.com/OmCheeLin/mini-docker)
-- An implementation of a container runtime
-
 ### [mini-arthas](https://github.com/OmCheeLin/mini-arthas)
 - JVM monitoring tool inspired by Arthas 
 
