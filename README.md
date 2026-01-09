@@ -40,6 +40,7 @@
   - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882)
   - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
   - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)  
+  - [Push down sum agg to data node](https://github.com/apache/skywalking-banyandb/pull/924)
   - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
   - [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
   - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664)  
