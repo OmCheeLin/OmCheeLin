@@ -36,6 +36,7 @@
   <summary>📌 More BanyanDB PRs</summary>
 
   - [Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
+  - [Map-Reduce Aggregation Redesign](https://github.com/apache/skywalking-banyandb/pull/970)
   - [Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
   - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882)
   - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
