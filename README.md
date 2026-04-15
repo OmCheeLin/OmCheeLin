@@ -1,8 +1,7 @@
 # Hi, I'm OmCheeLin! 👋
 **`Gen Z Developer | Open Source Enthusiast | Technical Writer`**
 
-📍 Zhejiang, China  
-💻 Seeking Backend Developer Opportunities  
+📍 Zhejiang, China 
 ✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083?type=blog)
 
 ## 🛠️ Tech Stack
@@ -26,27 +25,27 @@
 ## 🧑‍💻 Open Source Contributions
 
 ### **Apache SkyWalking (BanyanDB) — Main Contributions**
-- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)  
+- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)
+- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)
+- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688)
 - [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704)  
-- [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734)  
-- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)  
-- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688)  
+- [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734)
 
 <details>
   <summary>📌 More BanyanDB PRs</summary>
 
-  - [Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
-  - [Map-Reduce Aggregation Redesign](https://github.com/apache/skywalking-banyandb/pull/970)
-  - [Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
-  - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882)
-  - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)  
   - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)
-  - [refactor deduplicateAggregatedDataPoints](https://github.com/apache/skywalking-banyandb/pull/943)
+  - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)
+  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
+  - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882) 
+  - [Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
+  - [Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
   - [Push down count aggregation](https://github.com/apache/skywalking-banyandb/pull/932)
   - [Push down sum agg to data node](https://github.com/apache/skywalking-banyandb/pull/924)
-  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
+  - [refactor deduplicateAggregatedDataPoints](https://github.com/apache/skywalking-banyandb/pull/943)
+  - [Map-Reduce Aggregation Redesign](https://github.com/apache/skywalking-banyandb/pull/970)
   - [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
-  - [bug/fix Panic when creating _top_n_result](https://github.com/apache/skywalking-banyandb/pull/664)  
+
 </details>
 
 
