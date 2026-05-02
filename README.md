@@ -25,29 +25,39 @@
 ## 🧑‍💻 Open Source Contributions
 
 ### **Apache SkyWalking (BanyanDB) — Main Contributions**
-- [Feature 12893/add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)
-- [fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)
-- [Feature/Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688)
-- [Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704)  
-- [implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734)
 
 <details>
-  <summary>📌 More BanyanDB PRs</summary>
-
-  - [Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)
-  - [Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)
-  - [Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
-  - [Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882) 
-  - [Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
-  - [Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
-  - [Push down count aggregation](https://github.com/apache/skywalking-banyandb/pull/932)
-  - [Push down sum agg to data node](https://github.com/apache/skywalking-banyandb/pull/924)
-  - [refactor deduplicateAggregatedDataPoints](https://github.com/apache/skywalking-banyandb/pull/943)
-  - [Map-Reduce Aggregation Redesign](https://github.com/apache/skywalking-banyandb/pull/970)
-  - [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
+  <summary>2026</summary>
+  
+- [feat: Push down count aggregation](https://github.com/apache/skywalking-banyandb/pull/932)
+- [feat: Push down sum agg to data node](https://github.com/apache/skywalking-banyandb/pull/924)
+- [feat: refactor deduplicateAggregatedDataPoints](https://github.com/apache/skywalking-banyandb/pull/943)
+- [feat: Map-Reduce Aggregation Redesign](https://github.com/apache/skywalking-banyandb/pull/970)
+- [doc: Complete aggregation push down doc for BanyanDB 0.10.0](https://github.com/apache/skywalking-banyandb/pull/1062)
+- [doc: Major 0.10.0 themes - Liaison sync + series metadata](https://github.com/apache/skywalking-banyandb/pull/1073)
+- [doc: update tsdb.md with the added "smeta.bin"](https://github.com/apache/skywalking-banyandb/pull/1074)
+- [bugfix: Use topic instead of session_id as the Prometheus label](https://github.com/apache/skywalking-banyandb/pull/1093)
 
 </details>
 
+<details>
+  <summary>2025</summary>
+
+- [feat: add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)
+- [bugfix: fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)
+- [feat: Encode each column based on its data type](https://github.com/apache/skywalking-banyandb/pull/688)
+- [feat: Enable Login with Username/Password in BanyanDB](https://github.com/apache/skywalking-banyandb/pull/704)  
+- [feat: implement dynamic reload of credential files](https://github.com/apache/skywalking-banyandb/pull/734)
+- [feat: Implement Additional Measure Dump Command](https://github.com/apache/skywalking-banyandb/pull/864)
+- [feat: Implement Stream Dump Command](https://github.com/apache/skywalking-banyandb/pull/858)
+- [feat: Implement Property Dump Command](https://github.com/apache/skywalking-banyandb/pull/871)
+- [feat: Enable Dynamic TLS Credential Loading Between Liaison and Data Nodes](https://github.com/apache/skywalking-banyandb/pull/882) 
+- [feat: Measure Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/890)
+- [feat: Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
+- [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
+
+
+</details>
 
 ### **Other Repo PRs**
 <details>
