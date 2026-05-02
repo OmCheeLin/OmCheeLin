@@ -1,8 +1,7 @@
 # Hi, I'm OmCheeLin! 👋
 **`Gen Z Developer | Open Source Enthusiast | Technical Writer`**
 
-📍 Zhejiang, China 
-✍️ Sharing insights on my blog → [My Blog](https://blog.csdn.net/2401_82540083?type=blog)
+📍 Zhejiang, China
 
 ## 🛠️ Tech Stack
 
