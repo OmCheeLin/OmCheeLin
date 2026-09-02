@@ -25,8 +25,7 @@
 
 ### **Apache SkyWalking (BanyanDB) — Main Contributions**
 
-<details>
-  <summary>2026</summary>
+#### 2026
   
 - [feat: Push down count aggregation](https://github.com/apache/skywalking-banyandb/pull/932)
 - [feat: Push down sum agg to data node](https://github.com/apache/skywalking-banyandb/pull/924)
@@ -37,10 +36,7 @@
 - [doc: update tsdb.md with the added "smeta.bin"](https://github.com/apache/skywalking-banyandb/pull/1074)
 - [bugfix: Use topic instead of session_id as the Prometheus label](https://github.com/apache/skywalking-banyandb/pull/1093)
 
-</details>
-
-<details>
-  <summary>2025</summary>
+#### 2025
 
 - [feat: add topn subcommand](https://github.com/apache/skywalking-banyandb/pull/656)
 - [bugfix: fix potential oom](https://github.com/apache/skywalking-banyandb/pull/674)
@@ -55,8 +51,6 @@
 - [feat: Trace、Stream Series Metadata in Liaison Sending Queue](https://github.com/apache/skywalking-banyandb/pull/896)
 - [doc: Clarify shard allocation mechanism in Meta Nodes section](https://github.com/apache/skywalking-banyandb/pull/902)
 
-
-</details>
 
 ### **Other Repo PRs**
 <details>
